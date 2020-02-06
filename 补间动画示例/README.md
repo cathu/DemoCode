@@ -8,11 +8,11 @@
 ### 用法
 
 ```kotlin
-	foldLayout.setControlView(Button(context).apply { text="关闭" })
+    foldLayout.setControlView(Button(context).apply { text="关闭" })
     foldLayout.addView(Button(context).apply { text="你好1" })
     foldLayout.addView(Button(context).apply { text="你好2" })
     foldLayout.addView(Button(context).apply { text="你好3" })
-
-	//应该可以自行添加各种View
+    //应该可以自行添加各种View
 ```
 ### 效果
+![小股票](https://github.com/cathu/DemoCode/blob/master/%E8%A1%A5%E9%97%B4%E5%8A%A8%E7%94%BB%E7%A4%BA%E4%BE%8B/foldGIF.gif?raw=true)
