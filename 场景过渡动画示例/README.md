@@ -8,7 +8,9 @@
 简单粗俗的讲：您只管提供布局文件，我们帮您自动动画效果。
 
 我们先看看效果（因为代码并不重要，所以本章不会具体讲解如何实现，[Demo戳这里](https://github.com/cathu/DemoCode/tree/master/%E5%9C%BA%E6%99%AF%E8%BF%87%E6%B8%A1%E5%8A%A8%E7%94%BB%E7%A4%BA%E4%BE%8B)）：
- ![效果](https://img-blog.csdnimg.cn/20200218164835908.gif)
+
+![效果](https://img-blog.csdnimg.cn/20200218164835908.gif)
+
 <font color=red>**Android 的过渡框架是个很牛逼的框架，你只需要简单的几行代码就可以实现炫酷的特效，其牛逼之处在于封装的非常非常非常好！**</font>
 
 <font color=red>**但是也有一些坑……**</font>
